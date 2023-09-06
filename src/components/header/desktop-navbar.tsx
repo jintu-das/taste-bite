@@ -7,7 +7,7 @@ import AppBar from "@mui/material/AppBar";
 import Box from "@mui/material/Box";
 import IconButton from "@mui/material/IconButton";
 import Toolbar from "@mui/material/Toolbar";
-import Logo from "../../assets/Logo 2.svg";
+import Logo from "../../assets/Logo.svg";
 import ExpandMoreSharpIcon from "@mui/icons-material/ExpandMoreSharp";
 import LoginIcon from "@mui/icons-material/Login";
 

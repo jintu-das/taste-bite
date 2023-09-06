@@ -9,7 +9,7 @@ import {
 } from "@mui/material";
 import SearchIcon from "@mui/icons-material/Search";
 import MenuIcon from "@mui/icons-material/Menu";
-import Logo from "../../assets/Logo 2.svg";
+import Logo from "../../assets/Logo.svg";
 import ExpandMoreSharpIcon from "@mui/icons-material/ExpandMoreSharp";
 
 export default function MobileNavbar() {
